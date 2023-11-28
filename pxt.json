@@ -1,5 +1,6 @@
 {
     "name": "TA03: Convertidor de mesura C-F",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*"
